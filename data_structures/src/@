@@ -1,6 +1,0 @@
-fn main() {
-    println!("This is a list in rust");
-    let animals = ["rabbit", "dog", "cat"];
-    println!("{:?}", animals);
-
-}
