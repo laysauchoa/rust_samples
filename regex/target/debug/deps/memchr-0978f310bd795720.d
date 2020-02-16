@@ -1,0 +1,13 @@
+/home/tmhdev/Documents/rust_samples/regex/target/debug/deps/memchr-0978f310bd795720.rmeta: /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/lib.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/fallback.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/iter.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/naive.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/mod.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/avx.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/sse2.rs
+
+/home/tmhdev/Documents/rust_samples/regex/target/debug/deps/libmemchr-0978f310bd795720.rlib: /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/lib.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/fallback.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/iter.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/naive.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/mod.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/avx.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/sse2.rs
+
+/home/tmhdev/Documents/rust_samples/regex/target/debug/deps/memchr-0978f310bd795720.d: /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/lib.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/fallback.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/iter.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/naive.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/mod.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/avx.rs /home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/sse2.rs
+
+/home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/lib.rs:
+/home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/fallback.rs:
+/home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/iter.rs:
+/home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/naive.rs:
+/home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/mod.rs:
+/home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/avx.rs:
+/home/tmhdev/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.0/src/x86/sse2.rs:
